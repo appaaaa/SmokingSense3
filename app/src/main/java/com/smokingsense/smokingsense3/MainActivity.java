@@ -292,18 +292,7 @@ public class MainActivity extends AppCompatActivity
             mDialog.show();
 
         } else if (id == R.id.nav_share) {
-            AlertDialog.Builder mDialogBuilder = new AlertDialog.Builder(MainActivity.this);
-            mDialogBuilder.setMessage("추후 개발 예정입니다. ");
 
-
-            mDialogBuilder.setPositiveButton("확인", new DialogInterface.OnClickListener(){
-                @Override
-                public void onClick(DialogInterface dialogInterface, int i) {
-                }
-            });
-
-            AlertDialog mDialog = mDialogBuilder.create();
-            mDialog.show();
 
         } else if (id == R.id.nav_send) {
             AlertDialog.Builder mDialogBuilder = new AlertDialog.Builder(MainActivity.this);
