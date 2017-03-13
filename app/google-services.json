@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "381609357924",
+    "firebase_url": "https://smokingsensebasic.firebaseio.com",
+    "project_id": "smokingsensebasic",
+    "storage_bucket": "smokingsensebasic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381609357924:android:78d662238a3753f2",
+        "android_client_info": {
+          "package_name": "pj1.smokingsense.com.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381609357924-r9a1k3cidifv2rtu4ak67m9afd1k47km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJNzMXyGWGcojLqgHvN9VZL6RBeSE9qhI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381609357924-r9a1k3cidifv2rtu4ak67m9afd1k47km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381609357924:android:4d731474964971a5",
+        "android_client_info": {
+          "package_name": "com.smokingsense.smokingsense3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381609357924-r9a1k3cidifv2rtu4ak67m9afd1k47km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJNzMXyGWGcojLqgHvN9VZL6RBeSE9qhI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381609357924-r9a1k3cidifv2rtu4ak67m9afd1k47km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
