@@ -295,7 +295,8 @@ public class MainActivity extends AppCompatActivity
 
         } else if (id == R.id.nav_send) {
             AlertDialog.Builder mDialogBuilder = new AlertDialog.Builder(MainActivity.this);
-            mDialogBuilder.setMessage("추후 개발 예정입니다.");
+            mDialogBuilder.setMessage("추후 개발 예정입니다. ");
+
 
             mDialogBuilder.setPositiveButton("확인", new DialogInterface.OnClickListener(){
                 @Override
